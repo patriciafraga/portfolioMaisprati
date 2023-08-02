@@ -1,0 +1,71 @@
+
+header{
+    color: #000d0c;
+}
+h1  {
+    background-color:rgb(172, 246, 221) ;
+    text-align: center;
+}
+a {
+    color: #01322e;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;               
+}
+.sinopse {
+    background-color: white;
+}
+.sinopse1 {
+    background-color: #c2fbf6;
+}
+
+th, td {
+    border: 1px solid black;
+    border-color: black;
+    padding: 8px;
+}
+
+thead {
+    background-color: #038C7F;
+}
+tbody {
+    background-color: #c2fbf6;
+}
+
+tfoot {
+    background-color: #c2fbf6;
+}
+td {
+    text-align: center;
+}
+p{
+    text-align: justify;
+    text-indent: 50px;
+    padding: 8px;
+}
+body{
+    color: rgb(6, 0, 12);
+}
+.booksTitle {
+    color:#01322e ;
+    background-color: rgb(172, 246, 221) ;
+    text-align: center;
+
+}
+h3 {
+    padding: 8px;
+}
+.fontes {
+    text-indent: 0%;
+}
+#sectionHP, #sectionFCG, #sectionCF {
+    background-color: #c2fbf6;
+}
+img {
+    width: 300px;
+    border-radius: 50px;
+    display: block;
+    margin: auto;
+}
